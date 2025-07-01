@@ -1,0 +1,141 @@
+📄 Cahier des charges – Site vitrine fictif (boulangerie artisanale)
+
+🎯 Objectif
+
+Créer un site web one-page, esthétique, responsive et professionnel, destiné à une boulangerie artisanale fictive.
+Ce site servira de modèle de démonstration commerciale pour démarcher des clients réels.
+
+
+---
+
+🖼 Identité visuelle
+
+Ambiance visuelle
+
+Chaleureuse, artisanale, authentique, avec une atmosphère de commerce de proximité.
+
+🎨 Palette de couleurs :
+
+Beige clair #F5F5DC (fond)
+
+Bois naturel / brun clair #D2B48C (encarts, titres)
+
+Orange doux #FFA500 (boutons, liens, accents)
+
+Jaune blé #F5DEB3 (mises en valeur)
+
+
+🪪 Logo
+
+Création libre autour du thème boulangerie (nom fictif accepté).
+Un logo a déjà été fourni au développeur dans les éléments à intégrer (logo.png).
+
+🔤 Polices d’écriture
+
+Titres : avec empattements traditionnels (Playfair Display, Cormorant Garamond) ou manuscrite lisible (Pacifico, Dancing Script) si bien intégrée.
+
+Texte courant : sans-serif lisible (Open Sans, Lato, Inter, Roboto).
+
+
+👉 Toutes les polices doivent être intégrées via Google Fonts.
+---
+
+🧱 Structure du site
+
+En-tête / Bannière
+
+Logo + nom de la boulangerie fictive
+
+Accroche type : « Du pain fait avec passion depuis 1954 »
+
+Image bannière fournie : photo 1 représentant l'intérieur de la boulangerie (avant cuisson)
+
+
+
+---
+
+À propos
+
+Texte de présentation (5 à 6 lignes) expliquant :
+
+L’histoire fictive de la boulangerie
+
+L’amour du pain traditionnel
+
+L’engagement maison / local
+
+
+Image fournie : photo 2 montrant un boulanger en train de travailler la pâte
+
+
+
+---
+
+Nos produits
+
+Mettre en avant 3 à 4 produits fictifs :
+
+Produit    Description courte
+
+Baguette tradition    Croustillante, dorée, cuite sur pierre
+Pain de campagne    Goût rustique, fermentation lente
+Croissant beurre    Pur beurre AOP, feuilleté à souhait
+Pain complet    Riche en fibres, idéal pour le matin
+
+
+👉 Ajouter une photo libre de droit ou générée par produit.
+
+
+---
+
+Horaires & contact
+
+Adresse fictive : 12 rue de la Boulange, 38000 Grenoble
+
+Horaires types (Lun-Sam : 6h30 – 19h30 / Dim : fermé)
+
+Mini Google Maps intégrée
+
+Email fictif + numéro fictif
+
+Bouton factice « Nous contacter »
+
+
+
+---
+
+Avis clients
+
+2 ou 3 témoignages fictifs :
+
+« Une boulangerie comme on n’en fait plus ! Pain délicieux et accueil au top. 5/5 ⭐️ »
+« Des croissants incroyables et un personnel adorable. »
+« Le pain complet, une vraie tuerie. »
+
+
+
+Noms clients type : Julie M., Antoine D., Sarah L.
+
+
+
+---
+
+Pied de page
+
+Phrase d’accroche : « Ce site vous plaît ? Faites le vôtre dès maintenant ! »
+
+Bouton fictif : « Demander un site comme celui-ci »
+
+Liens vers réseaux sociaux fictifs
+
+
+
+---
+
+⚙️ Spécifications techniques
+
+100% responsive : mobile, tablette, ordinateur
+
+Code propre : HTML / CSS / JS (ou CMS si choisi)
+
+Chargement rapide
