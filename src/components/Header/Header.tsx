@@ -16,24 +16,20 @@ function Header() {
     <>
       <motion.header 
         className={style.header}
-        initial={{ opacity: 0, y: -20 }}
-        animate={{ opacity: 1, y: 0 }}
+        initial={{ opacity: 0}}
+        animate={{ opacity: 1}}
         transition={{ duration: 0.5 }}
       >
         <div className={style.leftContent}>
           <motion.img 
             src={logo}
             alt="Logo boulangerie Dego"
-            width={80}
-            height={80}
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ 
               duration: 0.5,
               ease: "easeOut"
             }}
-            whileHover={{ scale: 1.05 }}
-            style={{ cursor: 'pointer' }}
             decoding="async"
             loading="lazy"
           />
@@ -102,7 +98,8 @@ function Header() {
                 whileTap={{ scale: 0.95 }}
                 onClick={() => {
                   setIsMenuOpen(false);
-                  // Ici vous pouvez ajouter la logique de navigation
+                  // Ici on peut ajouter la logique pour naviguer vers la section correspondante
+                    console.log(`Naviguer vers ${item}`);
                 }}
                 style={{ cursor: 'pointer' }}
               >

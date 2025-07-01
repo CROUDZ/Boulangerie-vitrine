@@ -46,7 +46,7 @@
 .hamburger span {
     width: 25px;
     height: 3px;
-    background-color: #000000;
+    background-color: #FFFFFF;
     transition: all 0.3s ease;
 }
 
@@ -86,7 +86,7 @@
 
 .mobileMenu p {
     font-family: 'Roboto', sans-serif;
-    color: #000000;
+    color: #FFFFFF;
     font-size: 28px;
     font-weight: 500;
     cursor: pointer;
@@ -102,7 +102,7 @@
 
 .header p{
     font-family: 'Roboto', sans-serif;
-    color: #000000;
+    color: #FFFFFF;
     font-size: 23px;
     font-weight: 500;
     transition: all 0.3s ease;
@@ -118,7 +118,7 @@
 
 .header h2{
     font-family: 'Roboto', serif;
-    color: #000000;
+    color: #FFFFFF;
     font-size: 42px;
     font-weight: 500;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
